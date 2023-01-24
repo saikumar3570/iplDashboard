@@ -1,0 +1,19 @@
+.back3 {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  width: 350px;
+  margin-bottom:10px;
+}
+.back4 {
+  display: flex;
+  justify-content: space-between;
+  padding:10px;
+}
+.i3{
+    height:100px;
+    width:100px;
+}
+p{
+    color:white;
+    align-self:center;
+}
